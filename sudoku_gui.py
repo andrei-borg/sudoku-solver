@@ -1,5 +1,5 @@
 import pygame
-from pygame.locals import QUIT, MOUSEBUTTONDOWN, KEYDOWN, K_RETURN
+from pygame.locals import QUIT, MOUSEBUTTONDOWN, KEYDOWN
 
 from sudoku_solver import SUDOKU_BOARD, find_empty_location, is_valid
 
